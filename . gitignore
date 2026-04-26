@@ -1,0 +1,8 @@
+Optional(.gipycache----
+pycache/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
